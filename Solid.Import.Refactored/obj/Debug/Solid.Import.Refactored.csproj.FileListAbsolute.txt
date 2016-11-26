@@ -1,0 +1,11 @@
+F:\DemoProject\SOLID\Solid\Solid.Import.Refactored\bin\Debug\Solid.Import.Refactored.exe.config
+F:\DemoProject\SOLID\Solid\Solid.Import.Refactored\bin\Debug\Solid.Import.Refactored.exe
+F:\DemoProject\SOLID\Solid\Solid.Import.Refactored\bin\Debug\Solid.Import.Refactored.pdb
+F:\DemoProject\SOLID\Solid\Solid.Import.Refactored\obj\Debug\Solid.Import.Refactored.exe
+F:\DemoProject\SOLID\Solid\Solid.Import.Refactored\obj\Debug\Solid.Import.Refactored.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.Refactored\bin\Debug\Solid.Import.Refactored.exe.config
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.Refactored\bin\Debug\Solid.Import.Refactored.exe
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.Refactored\bin\Debug\Solid.Import.Refactored.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.Refactored\obj\Debug\Solid.Import.Refactored.exe
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.Refactored\obj\Debug\Solid.Import.Refactored.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.Refactored\obj\Debug\Solid.Import.Refactored.csprojResolveAssemblyReference.cache

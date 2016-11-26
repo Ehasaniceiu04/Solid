@@ -1,0 +1,27 @@
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.Client.exe.config
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.Client.exe
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.Client.pdb
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.csprojResolveAssemblyReference.cache
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.exe
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.pdb
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.dll
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\bin\Debug\Ninject.dll
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.pdb
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Client\bin\Debug\Ninject.xml
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.Client.exe.config
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.exe
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.csprojResolveAssemblyReference.cache
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.Client.exe
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.Client.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.dll
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\bin\Debug\Ninject.dll
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\bin\Debug\Ninject.xml
+\\Vboxsvr\e_drive\Ehsan\Solid4May2015\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.Client.exe.config
+\\Vboxsvr\e_drive\Ehsan\Solid4May2015\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.exe
+\\Vboxsvr\e_drive\Ehsan\Solid4May2015\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Client\bin\Debug\ClearScript.dll
+C:\Users\Ehasan\Google Drive\Solid4May2015\Solid.Import.DI.Client\bin\Debug\Solid.Import.DI.Client.exe.config
+C:\Users\Ehasan\Google Drive\Solid4May2015\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.exe
+C:\Users\Ehasan\Google Drive\Solid4May2015\Solid.Import.DI.Client\obj\Debug\Solid.Import.DI.Client.pdb

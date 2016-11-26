@@ -1,0 +1,27 @@
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\Solid.Import.DI.Tests.dll
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\Solid.Import.DI.Tests.pdb
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\NSubstitute.dll
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\nunit.framework.dll
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\Solid.Import.DI.dll
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\Solid.Import.DI.pdb
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\NSubstitute.xml
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\nunit.framework.xml
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\obj\Debug\Solid.Import.DI.Tests.csprojResolveAssemblyReference.cache
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\obj\Debug\Solid.Import.DI.Tests.dll
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\obj\Debug\Solid.Import.DI.Tests.pdb
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\Ninject.dll
+F:\DemoProject\SOLID\Solid\Solid.Import.DI.Tests\bin\Debug\Ninject.xml
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\Solid.Import.DI.Tests.dll
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\Solid.Import.DI.Tests.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\NSubstitute.dll
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\Solid.Import.DI.dll
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\Ninject.dll
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\Solid.Import.DI.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\NSubstitute.xml
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\Ninject.xml
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\obj\Debug\Solid.Import.DI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\obj\Debug\Solid.Import.DI.Tests.dll
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\obj\Debug\Solid.Import.DI.Tests.pdb
+C:\Users\Ehasanul\Google Drive\Solid4May2015\Solid.Import.DI.Tests\bin\Debug\ClearScript.dll
